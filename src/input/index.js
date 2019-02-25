@@ -8,6 +8,10 @@ Component({
             type: String
         },
         // text || textarea || password || number
+        autoheight: {
+            type: Boolean,
+            value: true
+        },
         type: {
             type: String,
             value: 'text'

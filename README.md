@@ -1,3 +1,8 @@
+### changelog
+* input[type=textarea]: 支持传入autoheight
+* button: 支持传入formtype
+* i-form-field: 以插槽的方式支持自定义表单元素
+
 <p align="center">
     <a href="https://weapp.iviewui.com">
         <img width="200" src="https://file.iviewui.com/weapp-logo.svg">

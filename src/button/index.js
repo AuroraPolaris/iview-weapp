@@ -3,6 +3,10 @@ Component({
 
     properties: {
         // default, primary, ghost, info, success, warning, error
+        formType: {
+            type: String,
+            value: '',
+        },
         type: {
             type: String,
             value: '',
